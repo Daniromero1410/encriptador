@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card-title {
+    color: #0d6efd;
+}
+
+textarea {
+    resize: vertical;
+}
